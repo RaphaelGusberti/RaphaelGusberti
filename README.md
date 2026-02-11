@@ -8,7 +8,7 @@
 <br>
 
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0086F7&width=900&size=30&center=true&lines=Welcome+to+my+profile!!;My+name+is+Raphael+Gusberti;Be+Welcome!!+C:" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0086F7&width=900&size=30&center=true&lines=Hi,+My+name+is+Raphael+Gusberti;Be+Welcome!!+C:" alt="Typing SVG"/>
 </div>
 <h5 align="center">
    Future Backend Developer | Java • APIs • Clean Architecture
