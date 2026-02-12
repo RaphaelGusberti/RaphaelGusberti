@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelGusberti&theme=github-dark-blue"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=RaphaelGusberti&theme=github-dark-blue" alt="GitHub Streak"/>
 </td>
 
 <td>
