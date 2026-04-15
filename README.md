@@ -11,7 +11,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0086F7&width=900&size=30&center=true&lines=Hi,+my+name+is+Raphael+Gusberti;Be+Welcome!!+C:" alt="Typing SVG"/>
 </div>
 <h5 align="center">
-  Backend Developer | Java • APIs • Clean Architecture
+  Backend Developer focused on Java, REST APIs and scalable backend systems
+</h5>
+<h5 align="center">
+  Currently improving my skills with Spring Boot, REST APIs, and Clean Architecture
 </h5>
 <br>
 <br>
@@ -37,7 +40,11 @@
 
 <br>
 
-##  Main Stack
+<h1>
+  Tech Stack
+</h1>
+
+##  Main Skills
 
 <p>
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
