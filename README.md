@@ -11,10 +11,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0086F7&width=900&size=30&center=true&lines=Hi,+my+name+is+Raphael+Gusberti;Be+Welcome!!+C:" alt="Typing SVG"/>
 </div>
 <h5 align="center">
-  Backend Developer focused on Java, REST APIs and scalable backend systems
+  Aspiring Backend Developer | Java • Spring Boot • REST APIs
 </h5>
 <h5 align="center">
-  Currently improving my skills with Spring Boot, REST APIs, and Clean Architecture
+  Currently mastering Spring Boot, REST APIs, and Clean Architecture
 </h5>
 
 <br><br>
