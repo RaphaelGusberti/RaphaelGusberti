@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0085FF&"/>
 
 <div align="center">
-  <img align="center" height="200" src="./assets/megamannn.gif"/>
+  <img align="center" height="300" src="./assets/megamannn.gif"/>
 </div>
 
 <br>
@@ -22,17 +22,22 @@
 <div align="center">
 
   <img
-    height="180"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaphaelGusberti&show_icons=true&theme=transparent"
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=RaphaelGusberti&theme=github_dark&hide_border=true"
   />
-
   <img
-    height="180"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaphaelGusberti&layout=compact&theme=transparent"
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=RaphaelGusberti&layout=compact&theme=github_dark&hide_border=true"
+  />
+</div>
+
+<div align="center">
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=RaphaelGusberti&theme=github-dark-blue&hide_border=true"
   />
 
 </div>
-
 <br>
 
   <h2 align="left">
