@@ -40,9 +40,9 @@
 </div>
 <br>
 
-  <h2 align="left">
+  <h1 align="left">
     <b>  💻 Tech Stack </b>
-  </h2>
+  </h1>
 
 <br>
 
