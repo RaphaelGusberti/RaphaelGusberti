@@ -1,7 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0085FF&"/>
 
 <div align="center">
-  <img align="center" height="200" src="https://imgur.com/jhxzE4z.png"/>
+  <img align="center" height="200" src="https://i.imgur.com/turiHjd.gif
+"/>
 </div>
 
 <br>
