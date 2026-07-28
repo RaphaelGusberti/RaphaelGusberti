@@ -1,8 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0085FF&"/>
 
 <div align="center">
-  <img align="center" height="200" src="https://i.imgur.com/turiHjd.gif
-"/>
+  <img align="center" height="200" src="./assets/megamannn.gif"/>
 </div>
 
 <br>
@@ -17,49 +16,54 @@
 <h5 align="center">
   Currently improving my skills with Spring Boot, REST APIs, and Clean Architecture
 </h5>
-<br>
-<br>
+
+<br><br>
+
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=RaphaelGusberti&theme=github-dark-blue" alt="GitHub Streak"/>
-</td>
+  <img
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaphaelGusberti&show_icons=true&theme=transparent"
+  />
 
-<td>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaphaelGusberti&theme=city_lights"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelGusberti&theme=city_lights"/>
+  <img
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaphaelGusberti&layout=compact&theme=transparent"
+  />
 
 </div>
 
 <br>
 
-<h1>
-  Tech Stack
-</h1>
+  <h2 align="left">
+    <b>  💻 Tech Stack </b>
+  </h2>
 
-##  Main Skills
+<br>
+
+<h3>
+  Main Skills
+</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts" />
 </p>
 
+<br>
 
-
-## Frameworks and Library
+<h3>
+  Frameworks & Platforms
+</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
-##  Dev Tools
+<br>
+
+<h3>
+  Dev Tools
+</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,vscode,eclipse,linux,windows" />
@@ -67,8 +71,9 @@
 
 
 
-##  Contact Me
-
+<h3>
+  Contact Me
+</h3>
 <p>
     <a href="https://www.linkedin.com/in/raphael-gusberti">
       <img src="https://skillicons.dev/icons?i=linkedin" height="48">
