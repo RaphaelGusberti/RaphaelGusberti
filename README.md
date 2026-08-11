@@ -51,7 +51,7 @@
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
 </p>
 
 <br>
