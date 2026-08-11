@@ -61,7 +61,7 @@
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github,spring,hibernate" />
 </p>
 
 <br>
